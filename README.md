@@ -9,10 +9,10 @@
 
 ### Contact with me:
 
-[<img align="left" alt="telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />](https://t.me/kozorizev)
-[<img align="left" alt="telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />](https://www.linkedin.com/in/evgen-kozoriz-9587b4202/)
-[<img align="left" alt="telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />](https://www.instagram.com/jeka_kozoriz/)
-[<img align="left" alt="telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" />](mailto:zkozoriz11@gmail.com)
+[<img align="left" alt="telegram" width="26px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536661.png?token=exp=1645446087~hmac=4c3585966ece5245cda91c31a06f011c" />](https://t.me/kozorizev)
+[<img align="left" alt="linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/evgen-kozoriz-9587b4202/)
+[<img align="left" alt="instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />](https://www.instagram.com/jeka_kozoriz/)
+[<img align="left" alt="gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />](mailto:zkozoriz11@gmail.com)
 
 <br/>
 
